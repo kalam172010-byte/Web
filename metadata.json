@@ -1,0 +1,6 @@
+{
+  "name": "FF Panel Store",
+  "description": "Premium Free Fire VIP Panel Store, License Key Manager, and Admin Control Dashboard with automated key delivery, HWID resets, and instant downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
